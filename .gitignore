@@ -1,0 +1,7 @@
+*
+!*.*
+!*/
+!Makefile
+*.out
+*.so
+.idea/*
